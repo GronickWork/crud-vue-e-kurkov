@@ -19,6 +19,6 @@
   o	Стейт-менеджер Vuex  
   o	Для запросов - fetch или axios  
 
-### Полный перечень требований к ТеЗ [здесь](https://ru.hexlet.io/blog/posts/kak-napisat-horoshiy-readme-dlya-vashego-proekta-na-github)
+### Полный перечень требований к ТеЗ [здесь](https://docs.google.com/document/d/1OuFXPfwIc1cvX4gz6eYITBbtMD0cHtUaGk_umZphx7o/edit?usp=sharing)
 
 #### Посмотреть, что вышло у меня [здесь](https://github)
